@@ -89,3 +89,9 @@ Page layout
 Forms
 
 Animations and effects
+What is Back-End?
+
+Back-End is the hidden part of a website or application — the part that users cannot see, but it makes everything work.
+It is also called the server side.
+
+When a user clicks a button, logs in, or submits a form, the back-end handles the logic and processing behind the scenes.
