@@ -121,3 +121,10 @@ A C# feature that lets you query and filter data using simple, readable syntax.
 Blazor
 
 A framework for building interactive web applications using C# instead of JavaScript.
+
+
+| Language   | Compiling        | Speed | Usage                    | Advantage                     |
+| ---------- | ---------------- | ----- | ------------------------ | ----------------------------- |
+| **C#**     | Compiled to .NET | Fast  | Web apps, games, desktop | Powerful and good performance |
+| **Java**   | Compiled to JVM  | Fast  | Enterprise apps, Android | Stable and widely used        |
+| **Python** | Interpreted      | Slow  | AI, data, scripting      | Very easy to learn            |
