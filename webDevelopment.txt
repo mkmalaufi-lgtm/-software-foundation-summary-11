@@ -69,3 +69,23 @@ Front-end for what the user sees
 Back-end for how it works
 
 Database for storing information
+Front-End is the part of a website or application that the user can see and interact with.
+It is also called the client side or user interface (UI).
+
+Everything that appears on the screen is front-end work, such as:
+
+Buttons
+
+Colors
+
+Images
+
+Navigation menus
+
+Text and fonts
+
+Page layout
+
+Forms
+
+Animations and effects
