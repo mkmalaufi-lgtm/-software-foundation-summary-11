@@ -1,0 +1,38 @@
+Agile
+
+Agile is a way of managing projects, especially in software development, that focuses on flexibility, collaboration, and continuous improvement. Instead of trying to plan the whole project in detail from the beginning, Agile breaks the work into smaller parts. The team delivers these parts step by step, checks if they are working well, gets feedback, and then adapts if needed.
+
+Agile encourages:
+
+Changing the plan when necessary
+
+Working closely with the team and customers
+
+Delivering work frequently
+
+Learning from experience and improving each time
+
+Agile is different from traditional project methods because it assumes that changes will happen, and it's built to handle them smoothly.
+
+Sprint
+
+A sprint is a key part of Agile. It is a short, fixed period of time — usually 1 to 4 weeks — where the team focuses on completing a set of tasks or features. Each sprint has a clear goal, and everyone works together to achieve it.
+
+At the end of the sprint:
+
+The team shows what they’ve built (called a Sprint Review)
+
+They look back at how they worked and discuss how to improve (called a Sprint Retrospective)
+
+Then the next sprint begins, with new tasks and goals.
+
+Example:
+Imagine you're building an app.
+
+Instead of waiting months to finish it, you build a small feature (like login) in one sprint.
+
+You test it, get feedback, fix or improve it if needed.
+
+Next sprint, you work on another feature (like user profiles).
+
+This way, the project grows step by step, with constant improvement and feedback.
