@@ -1,0 +1,71 @@
+Web Development
+
+Web development is the process of creating websites and web applications that people can access using a browser on computers, phones, or tablets. It includes everything from designing how a website looks to making sure it works correctly and can handle users and data.
+
+Web development is made up of three main parts:
+
+1. Front-End Development (Client Side)
+
+This is everything the user sees and interacts with directly. It focuses on the design, layout, colors, menus, buttons, and overall user experience.
+
+Front-end developers use:
+
+HTML — to structure the content (like text, images, and headings)
+
+CSS — to style the website (colors, fonts, layout)
+
+JavaScript — to make the page interactive (like clicking buttons, showing popups)
+
+Front-end development ensures that the site is easy to use, visually appealing, and responsive (works on any device).
+
+2. Back-End Development (Server Side)
+
+The back-end is the hidden part of the website. Users don’t see it, but it makes everything work behind the scenes. It handles tasks like:
+
+Managing user accounts
+
+Processing data
+
+Communicating with the database
+
+Back-end developers use languages like:
+
+Node.js
+
+Python
+
+PHP
+
+Java
+
+Ruby
+
+The back-end runs on servers and ensures the website’s features work properly and securely.
+
+3. Database
+
+A database stores the website’s information, like:
+
+Usernames and passwords
+
+Posts or products
+
+Messages or orders
+
+Common database systems include:
+
+MySQL
+
+MongoDB
+
+PostgreSQL
+
+Putting it all together
+
+A full website needs all three parts:
+
+Front-end for what the user sees
+
+Back-end for how it works
+
+Database for storing information
