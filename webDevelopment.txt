@@ -95,3 +95,10 @@ Back-End is the hidden part of a website or application — the part that users 
 It is also called the server side.
 
 When a user clicks a button, logs in, or submits a form, the back-end handles the logic and processing behind the scenes.
+
+What is a Database?
+
+A Database is a system used to store, organize, and manage data so that it can be used by the back-end of a website or application.
+It is like a digital storage room where all information is kept safely.
+
+The database is not visible to the user — it works in the background.
