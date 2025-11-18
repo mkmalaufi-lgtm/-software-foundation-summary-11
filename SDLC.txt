@@ -1,0 +1,49 @@
+What is the Software Development Life Cycle (SDLC)? Explain in detail its importance and the reasons for its use in modern software projects. 
+
+The Software Development Life Cycle (SDLC) is a structured process that guides the planning, creation, testing, and deployment of software systems to ensure quality, efficiency, and alignment with user needs. 
+
+ What Is SDLC? 
+
+The Software Development Life Cycle (SDLC) is a systematic framework used by software engineers and development teams to manage the entire process of software creation. It breaks down the development into distinct phases, each with specific goals and deliverables: 
+
+Requirement Analysis: Understand and document what users need. 
+
+Planning: Define scope, resources, timelines, and budget. 
+
+Design: Architect the system and create detailed specifications. 
+
+Implementation (Coding): Developers write the actual code. 
+
+Testing: Validate the software for bugs, performance, and compliance. 
+
+Deployment: Release the software to users. 
+
+Maintenance: Provide ongoing support, updates, and improvements. 
+
+Each phase builds on the previous one, creating a repeatable and predictable development process. 
+
+ Why Is SDLC Important? 
+
+SDLC is critical for several reasons: 
+
+Ensures High Quality: By following a structured approach, teams can deliver reliable, maintainable software that meets user expectations. 
+
+Improves Efficiency: Clear phases and deliverables reduce confusion and rework, saving time and resources. 
+
+Facilitates Collaboration: SDLC provides a common language and roadmap for developers, testers, project managers, and stakeholders. 
+
+Reduces Risk: Early planning and testing help identify issues before they become costly. 
+
+Supports Compliance: SDLC helps meet regulatory and security standards, especially in industries like finance and healthcare. 
+
+ Why Use SDLC in Modern Projects? 
+
+Modern software projects are complex, fast-paced, and often involve distributed teams. SDLC offers: 
+
+Scalability: Works for small apps or large enterprise systems. 
+
+Adaptability: Supports various models like Agile, Waterfall, DevOps, and DevSecOps depending on project needs. 
+
+Predictability: Helps estimate timelines and costs more accurately. 
+
+Continuous Improvement: Encourages feedback loops and iterative development. 
