@@ -102,3 +102,22 @@ A Database is a system used to store, organize, and manage data so that it can b
 It is like a digital storage room where all information is kept safely.
 
 The database is not visible to the user — it works in the background.
+SQL Server
+
+A relational database system used to store and manage structured data using SQL.
+
+C#
+
+A modern, object-oriented programming language used to build applications in the .NET ecosystem.
+
+EF Core
+
+An ORM (Object-Relational Mapper) that allows C# code to interact with databases without writing SQL manually.
+
+LINQ
+
+A C# feature that lets you query and filter data using simple, readable syntax.
+
+Blazor
+
+A framework for building interactive web applications using C# instead of JavaScript.
